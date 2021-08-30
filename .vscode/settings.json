@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "stdio.h": "c",
+        "string": "c",
+        "limits.h": "c",
+        "stdlib.h": "c",
+        "inttypes.h": "c",
+        "stdint.h": "c",
+        "float.h": "c",
+        "stdbool.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
