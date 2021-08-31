@@ -8,7 +8,10 @@
         "inttypes.h": "c",
         "stdint.h": "c",
         "float.h": "c",
-        "stdbool.h": "c"
+        "stdbool.h": "c",
+        "atomic": "c",
+        "bitset": "c"
     },
-    "C_Cpp.dimInactiveRegions": false
+    "C_Cpp.dimInactiveRegions": false,
+    "C_Cpp.errorSquiggles": "Disabled"
 }
